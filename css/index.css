@@ -19,7 +19,7 @@ header{
     margin: 0;
 }
 
-header img{
+.fa-solid fa-earth-americas{
     width: 50px;
     margin-left: 40px;
     margin-top: 25px;
@@ -39,7 +39,7 @@ header img{
 
 .navigate ul li {
     list-style-type: none;
-    font-size: 30px;
+    font-size: 20px;
     display: inline-block;
     position: relative;
     margin-top: 45px;
@@ -61,7 +61,7 @@ header img{
 .fa-solid {
     color: #348eff;
     padding: 5px;
-    font-size: 28px;
+    font-size: 20px;
 }
 
 .doc{
