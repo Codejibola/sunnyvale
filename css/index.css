@@ -19,13 +19,14 @@ header{
     margin: 0;
 }
 
-.fa-solid fa-earth-americas{
-    width: 50px;
+header img{
+    width: 60px;
     margin-left: 40px;
-    margin-top: 25px;
+    margin-top: 40px;
     position: relative;
-    border-radius: 12px;
-    object-fit:  cover;
+    border-radius: 5px;
+    object-fit: cover;
+    box-shadow: 0px 0px 1px #000000;
     
 }
    
